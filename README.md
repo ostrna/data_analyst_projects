@@ -5,6 +5,7 @@
 | Название проекта      | Описание                | Используемые библиотеки |
 | ------------- |:------------------:| -----:|
 | [AB-тест](https://github.com/ostrna/data_analyst_projects/tree/main/AB-тест)     | Анализ датасета новой платежной системы   | pandas, matplotlib, scipy, numpy, seaborn, plotly, statsmodels |
+| [PowerBI](https://github.com/ostrna/data_analyst_projects/tree/main/PowerBI)     | Разработка дашборда в Power BI   | - |
 | [DataScience](https://github.com/ostrna/data_analyst_projects/tree/main/DataScience)     | В данном проекте использовано машинное обучение. Спрогнозирована вероятность оттока (на уровне следующего месяца) для каждого клиента; сформированы типичные портреты пользователей: выделены наиболее яркие группы, охарактеризованы их основные свойства; проанализированы основные признаки, наиболее сильно влияющие на отток |   pandas, math, matplotlib, scipy, numpy, seaborn, sklearn, itertools |
 | [SQL](https://github.com/ostrna/data_analyst_projects/tree/main/SQL)     | Анализ базы данных |   pandas, sqlalchemy, datetime |
 | [Сервис "Ненужные вещи"](https://github.com/ostrna/data_analyst_projects/tree/main/Сервис%20%22Ненужные%20вещи%22)  | Мобильное приложение "Ненужные вещи". В нем пользователи продают свои ненужные вещи, размещая их на доске объявлений.   |    numpy, pandas, datetime, scipy, seaborn, matplotlib, math, plotly |
